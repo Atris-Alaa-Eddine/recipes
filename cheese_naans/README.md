@@ -18,7 +18,7 @@ inspired by [Ma cabane aux delices](https://youtu.be/CM4Qz-Lpnfo)
 
 What?         | How Many?
 ------------- | --------------
-eggs          | 2
+eggs          | 4
 yogurts       | 2 (== 250gr)
 thick cream   | 1 tablespoon
 baking powder | 1/2 sachet
