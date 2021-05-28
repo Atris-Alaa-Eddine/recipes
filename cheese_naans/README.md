@@ -25,7 +25,7 @@ baking powder | 1/2 sachet
 slat          | 9gr
 flour (t55)   | 800gr
 olive oil     | 1 tablespoon
-fetat         | 150gr
+fetat         | 250gr
 comté         | 250gr
 butter        | *some* to cook
 
