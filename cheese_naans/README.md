@@ -23,7 +23,7 @@ yogurts       | 2 (== 250gr)
 thick cream   | 1 tablespoon
 baking powder | 1/2 sachet
 slat          | 9gr
-flour (t55)   | 400gr
+flour (t55)   | 800gr
 olive oil     | 1 tablespoon
 fetat         | 150gr
 comté         | 250gr
